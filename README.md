@@ -8,6 +8,8 @@
   </a>
 </p>
 
+<p>This project consists in use CSS and JS to make testimonials change from time to time, showing a bar indicating the time before the change.</p>
+
 <p align="center">Classes here</p>
 
 <p align="center">
@@ -16,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="1.png" alt="Website">  
+  <img align="center" src="1.gif" alt="Website">  
 </p>

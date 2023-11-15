@@ -8,7 +8,7 @@
 </head>
 <body>	
 
-	<div class="testimonial-container">
+	<div class="testimonials-container">
 		<div class="progress-bar"></div>
 		<div class="fas fa-quote-right fa-quote"></div>
 		<div class="fas fa-quote-left fa-quote"></div>
@@ -22,7 +22,7 @@
 
 		<div class="user">
 			<img 
-				src="http://randomuser.me/api/portraits/women/<?= rand(1, 99) ?>.jpg" 
+				src="" 
 				alt="User Image" 
 				class="user-image"
 			/>
